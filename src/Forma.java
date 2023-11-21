@@ -1,6 +1,5 @@
 public class Forma {
 
-    public String calcolaArea(){
-        return "0";
+    public void calcolaArea(int b,int a){
     }
 }

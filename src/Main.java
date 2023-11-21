@@ -2,10 +2,8 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args){
-        Forma forma = new Forma();
         Rettangolo rettangolo = new Rettangolo();
 
-        System.out.println(forma.calcolaArea());
-        System.out.println(rettangolo.calcolaArea());
+        rettangolo.calcolaArea(6,7);
     }
 }
